@@ -6,5 +6,5 @@ They are roughly five categories of resources which will be uploaded:
 2. Anomaly/Outlier Detection resources
 3. Data Subset Selection resources
 4. Hybrid Modelling resources
-5. Other resources, i.e., any possible combination of the four abovementioned subjects, such as Feature Selection for Anomaly Detection, Data Subset Selection for Anomaly Detection, etc.
+5. Other resources, i.e., any possible combination of the four abovementioned subjects(sub-subjects), such as Feature Selection for Anomaly Detection, Data Subset Selection for Anomaly Detection, Feature Selection for Contextual Anomaly Detection, Feature and Data Subset Selection, Feature and Data Subset Selection for Anomaly Detection, Feature and Data Subset Selection for Contextual Anomaly Detection, Feature and Data Subset Selection for Contextual Anomaly Detection using hybrid models, etc.
 
