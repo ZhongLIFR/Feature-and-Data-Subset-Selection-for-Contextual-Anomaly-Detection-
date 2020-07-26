@@ -1,7 +1,7 @@
 # Feature-and-Data-Subset-Selection-for-Contextual-Anomaly-Detection-
 I will upload all the resources(including papers, codes, ideas, projects) related to Feature Selection, Data Subset Selection, Anomaly Detection, Hybrid Modelling that I have found onto this repository. 
 
-They are roughly five types of resources that will be uploaded as follows:
+They are roughly five categories of resources which will be uploaded:
 1. Feature Selection resources
 2. Anomaly/Outlier Detection resources
 3. Data Subset Selection resources
